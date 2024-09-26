@@ -60,7 +60,7 @@ void generate_file(int file_size, string file_name) {
 
         num.insert(0, NUM_SIZE - num.length() - 1, '0');
         num = "8" + num;
-        addr.insert(addr.end(), 50 - addr.size(), '9');
+        addr.insert(addr.end(), 50 - addr.size(), ' ');
 
         file << num << ";" << addr << endl;
     }
@@ -87,7 +87,6 @@ void generate_file(int file_size, string file_name) {
         binfile.write(reinterpret_cast<char *>(&lnum), sizeof(lnum));
         binfile.write(addr_buf, ADDR_SIZE);
     }
-    
 }
 
 
