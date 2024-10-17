@@ -1,0 +1,11 @@
+vendor_name = ModelSim
+source_file = 1, C:/altera/13.1/LabaIM2/Prac2.tdf
+source_file = 1, C:/altera/13.1/LabaIM2/Waveform.vwf
+source_file = 1, C:/altera/13.1/LabaIM2/db/Prac2.cbx.xml
+design_name = Prac2
+instance = comp, \y~output , y~output, Prac2, 1
+instance = comp, \d~input , d~input, Prac2, 1
+instance = comp, \a~input , a~input, Prac2, 1
+instance = comp, \b~input , b~input, Prac2, 1
+instance = comp, \c~input , c~input, Prac2, 1
+instance = comp, \y~0 , y~0, Prac2, 1

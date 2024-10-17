@@ -1,0 +1,9 @@
+SUBDESIGN "Laba2"
+{
+	a, b, c, d :INPUT;
+	y :OUTPUT;
+}
+BEGIN
+{
+	y = b $ A & C # !(A & D) # !B & C
+}

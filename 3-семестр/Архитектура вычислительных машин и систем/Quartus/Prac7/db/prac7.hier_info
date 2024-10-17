@@ -1,0 +1,17 @@
+|prac7
+a => r0.IN0
+a => r1.IN0
+b => r2.IN0
+b => r3.IN0
+b => r4.IN0
+b => r5.IN0
+clock => dff3.CLK
+clock => dff2.CLK
+clock => dff1.CLK
+clock => dff0.CLK
+q[0] <= dff0.DB_MAX_OUTPUT_PORT_TYPE
+q[1] <= dff1.DB_MAX_OUTPUT_PORT_TYPE
+q[2] <= dff2.DB_MAX_OUTPUT_PORT_TYPE
+q[3] <= dff3.DB_MAX_OUTPUT_PORT_TYPE
+
+

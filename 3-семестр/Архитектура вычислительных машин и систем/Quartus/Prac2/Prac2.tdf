@@ -1,0 +1,8 @@
+SUBDESIGN 'Prac2'
+(
+	a, b, c, d :INPUT;
+	y :OUTPUT;
+)
+BEGIN
+	y = b XOR a AND c OR NOT (a AND d) OR NOT b AND c;
+END;

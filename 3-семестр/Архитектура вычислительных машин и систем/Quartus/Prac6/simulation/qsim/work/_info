@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.1\prac6\simulation\qsim
+vPrac6
+Z1 !s100 lTE313Io1XX0dCa:2IMdj3
+Z2 IEAWXb<^VokA;N]6kD[?KC1
+Z3 VbEXOAf=1E^k99CD>SI7N03
+Z4 dC:\altera\13.1\LabaIM6\simulation\qsim
+Z5 w1728916712
+Z6 8Prac6.vo
+Z7 FPrac6.vo
+L0 31
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -work|work|Prac6.vo|
+Z10 o-work work -O0
+Z11 n@prac6
+!i10b 1
+!s85 0
+Z12 !s108 1728916713.656000
+Z13 !s107 Prac6.vo|
+!s101 -O0
+vPrac6_vlg_check_tst
+!i10b 1
+Z14 !s100 92Zo?^HfF>KjmOmPFN^fF3
+Z15 IFBHKJPDHo3ffmm4>Rbz8Y1
+Z16 V[kZ>;RC25VZ8[gA`:GOK:3
+R4
+R5
+Z17 8Waveform.vwf.vt
+Z18 FWaveform.vwf.vt
+L0 61
+R8
+r1
+!s85 0
+31
+Z19 !s108 1728916713.718000
+Z20 !s107 Waveform.vwf.vt|
+Z21 !s90 -work|work|Waveform.vwf.vt|
+!s101 -O0
+R10
+Z22 n@prac6_vlg_check_tst
+vPrac6_vlg_sample_tst
+!i10b 1
+Z23 !s100 JoeO?ZNQTc[c3nO>b_Q`52
+Z24 Ic<7U6biVB6VJl6UgRM4A_2
+Z25 VU7X7GZWYRa?VBnMfL<g?l0
+R4
+R5
+R17
+R18
+L0 29
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+Z26 n@prac6_vlg_sample_tst
+vPrac6_vlg_vec_tst
+!i10b 1
+Z27 !s100 TJ<lTh[?ENJ`zZH^Ol?U63
+Z28 I8WmJeHbQJNX9hGN>i4I8e0
+Z29 VS_CHEn;TXB[<DDQ59M^K=0
+R4
+R5
+R17
+R18
+Z30 L0 213
+R8
+r1
+!s85 0
+31
+R19
+R20
+R21
+!s101 -O0
+R10
+Z31 n@prac6_vlg_vec_tst

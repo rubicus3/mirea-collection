@@ -1,0 +1,10 @@
+vendor_name = ModelSim
+source_file = 1, C:/altera/13.1/prac1/Prac1.bdf
+source_file = 1, C:/altera/13.1/prac1/db/Prac1.cbx.xml
+design_name = Prac1
+instance = comp, \Y~output\, Y~output, Prac1, 1
+instance = comp, \d~input\, d~input, Prac1, 1
+instance = comp, \a~input\, a~input, Prac1, 1
+instance = comp, \b~input\, b~input, Prac1, 1
+instance = comp, \c~input\, c~input, Prac1, 1
+instance = comp, \inst6~0\, inst6~0, Prac1, 1

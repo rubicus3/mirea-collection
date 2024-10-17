@@ -1,0 +1,12 @@
+SUBDESIGN 'prac7'
+(
+	a, b: INPUT;
+	
+	
+	q[3..0] :OUTPUT;
+)
+BEGIN
+	y = b XOR a AND c OR NOT (a AND d) OR NOT b AND c;
+	
+	
+END;

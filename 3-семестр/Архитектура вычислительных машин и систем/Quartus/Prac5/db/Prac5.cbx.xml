@@ -1,0 +1,6 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="Prac5">
+		<CBX_INST_ENTRY INSTANCE_NAME="|Prac5|lpm_mux0:inst|LPM_MUX:LPM_MUX_component" CBX_FILE_NAME="mux_kbe.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

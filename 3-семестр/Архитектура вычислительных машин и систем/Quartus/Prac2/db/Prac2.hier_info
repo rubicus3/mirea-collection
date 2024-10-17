@@ -1,0 +1,11 @@
+|Prac2
+a => _.IN0
+a => _.IN0
+b => _.IN0
+b => _.IN0
+c => _.IN1
+c => _.IN1
+d => _.IN1
+y <= y.DB_MAX_OUTPUT_PORT_TYPE
+
+
